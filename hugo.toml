@@ -51,8 +51,8 @@ expiryDate = ["expiryDate"]
 
 
 [params.author]
-name = "Kirill Andreev"
-about = "About Me"
+#name = "Kirill Andreev"
+#about = "About Me"
 
 [blackfriday]
 # hrefTargetBlank = true
