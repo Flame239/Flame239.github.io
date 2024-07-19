@@ -85,7 +85,7 @@ dateformNumTime = "Jan 2, 2006"
 # images = [""]
 themeColor = "#494f5c"
 
-homeSubtitle = "How did you end up here?..."
+#homeSubtitle = "How did you end up here?..."
 #footerCopyright = "footer copyright"
 # bgImg = ""
 # gitUrl = "https://github.com/1bl4z3r/hermit-V2/tree/staging"
@@ -125,10 +125,10 @@ shareSocial = true
 
 [menu]
 
-[[menu.main]]
-name = "Posts"
-url = "posts/"
-weight = 1
+#[[menu.main]]
+#name = "Posts"
+#url = "posts/"
+#weight = 1
 
 [[menu.main]]
 name = "CV"
